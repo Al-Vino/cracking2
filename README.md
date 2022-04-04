@@ -1,2 +1,6 @@
-# cracking2
-Untuk Crack Facebook bapak kau🦎
+## Warning ##
+
+Tools Ini 💯% Gratis, Kalo Hasilnya Kurang 
+Maksimal Dimaklumin Aja Yah Tod🤗
+
+#

@@ -19,6 +19,7 @@ $ pip install bs4 future -y
 $ pip install cython futures -y
 $ rm -fr cracking2
 $ git clone https://github.com/Al-Vino/cracking2
+$ ls (L kecil)
 $ cd cracking2
 $ python crack-2.py
 ```

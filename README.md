@@ -1,7 +1,8 @@
 ## Warning ##
 
 Tools Ini 💯% Gratis, Kalo Hasilnya Kurang 
-Maksimal Dimaklumin Aja Yah Tod🤗
+Maksimal Dimaklumin Aja Yah Tod🤗 Namanya Juga Free
+Klo mau yang Hasil Maksimal chat gue aja Tod🤣
 
 ## PAKE DOANG NGGA FOLLOW, KONTOL LOO 
 ![deskripsi gambar](https://i.ibb.co/mJymQ3n/Screenshot-2022-04-04-15-38-59-732-com-termux.png)

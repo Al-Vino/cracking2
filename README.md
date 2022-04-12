@@ -16,8 +16,8 @@ Download apk Termuxnya disini biar ngga eror🌟
 $ apt update && apt upgrade -y
 $ apt install python git -y
 $ pip install requests mechanize -y
-$ pip install bs4 future -y
-$ pip install cython futures -y
+$ pip install bs4 future
+$ pip install cython
 $ rm -fr cracking2
 $ git clone https://github.com/Al-Vino/cracking2
 $ ls (L kecil)
